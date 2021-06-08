@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"name": "indextrial.html",
+			"path": "..\\..\\indextrial.html"
+		},
+		{
+			"name": "trial.css",
+			"path": "..\\..\\trial.css"
+		},
+		{
+			"name": "assets",
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "indextrial.html"
+	}
+}

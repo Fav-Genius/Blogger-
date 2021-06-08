@@ -1,0 +1,31 @@
+
+/* font-family; Abel*/
+@font-face {
+    font-family: Abel;
+    src: url(../Fonts/Abel/Abel-Regular.ttf);
+}
+
+/* font-family; Girassol*/
+@font-face {
+    font-family: Girassol;
+    src: url(../Fonts/Girassol/Girassol-Regular.ttf);
+}
+
+/* font-family; Glass_Antiqua*/
+@font-face {
+    font-family: Glass_Antiqua;
+    src: url(../Fonts/Glass_Antiqua/GlassAntiqua-Regular.ttf);
+}
+
+/* font-family; Grenze_Gotisch*/
+@font-face {
+    font-family: Grenze_Gotisch;
+    src: url(../Fonts/Grenze_Gotisch/GrenzeGotisch-VariableFont_wght.ttf);
+}
+
+/* font-family; Open_Sans*/
+@font-face {
+    font-family: Open_Sans;
+    src: url(../Fonts/Open_Sans/OpenSans-Light.ttf);
+}
+
